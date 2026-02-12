@@ -1,0 +1,83 @@
+Privacy Policy
+
+Last updated: February 2026
+
+This Privacy Policy describes how NanoBeacon Thermostat (“the App”) handles information.
+
+NanoBeacon Sensor App is developed by InPlay Inc. and is designed to work with InPlay IN120-based wireless temperature sensor hardware.
+
+⸻
+
+Information Collection and Use
+
+NanoBeacon Sensor App does not collect, store, transmit, or share any personal data.
+
+Specifically, the App:
+	•	Does not require user accounts or login
+	•	Does not collect names, email addresses, or identifiers
+	•	Does not use analytics, tracking, or advertising SDKs
+	•	Does not transmit data to external servers or cloud services
+
+All processing happens locally on your device.
+
+⸻
+
+Bluetooth Usage
+
+The App uses Bluetooth Low Energy (BLE) in scan-only (observer) mode to detect nearby IN120 temperature sensors.
+	•	The App does not pair with or connect to devices
+	•	BLE advertisement data (such as temperature and battery values) is processed locally
+	•	Bluetooth data is not stored remotely or shared
+
+Bluetooth access is required only to scan for compatible sensor broadcasts.
+
+⸻
+
+Data Storage
+
+The App may store the following information locally on your device only:
+	•	List of added sensors
+	•	Custom sensor names
+	•	User-configured display settings (such as temperature unit)
+
+This data never leaves your device.
+
+⸻
+
+Third-Party Services
+
+NanoBeacon Sensor App does not integrate with third-party services, analytics platforms, or advertising networks.
+
+The App relies only on standard Apple iOS system frameworks.
+
+⸻
+
+Children’s Privacy
+
+NanoBeacon Sensor App does not knowingly collect personal information from anyone, including children under the age of 13.
+
+⸻
+
+Security
+
+Because the App does not collect or transmit personal data, the risk of data exposure is minimal.
+
+Security concerns can be reported via our public security policy:
+https://github.com/InPlay-Jason-Personal/NanobeaconSensor
+
+⸻
+
+Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be reflected on this page with an updated “Last updated” date.
+
+⸻
+
+Contact
+
+If you have questions about this Privacy Policy, please contact:
+
+InPlay Inc.
+Email: support@inplay-tech.com
