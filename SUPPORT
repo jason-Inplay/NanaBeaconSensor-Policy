@@ -1,0 +1,114 @@
+NanoBeacon Sensor App – Support
+
+Thank you for using NanoBeacon Sensor App.
+
+This app is designed to work with InPlay IN120–based wireless temperature sensor hardware. Below you’ll find answers to common questions and troubleshooting steps.
+
+⸻
+
+Hardware Requirement
+
+NanoBeacon Sensor App requires compatible IN120 temperature sensor hardware to display live data.
+
+The app:
+	•	Scans nearby IN120 sensors using Bluetooth Low Energy (BLE) advertising
+	•	Does not connect to sensors via traditional Bluetooth pairing
+	•	Operates in BLE scan (observer) mode only
+
+If no compatible sensor is nearby, the app will display “No device found.”
+
+⸻
+
+Getting Started
+	1.	Power on your IN120 temperature sensor
+	2.	Place the sensor within Bluetooth range
+	3.	Open the IN120 Thermostat app
+	4.	Make sure Bluetooth is enabled on your iPhone
+	5.	Tap Add Sensor to scan and add nearby devices
+
+Once added, the sensor will appear on the dashboard and update automatically when broadcasts are received.
+
+⸻
+
+Bluetooth Troubleshooting
+
+If no devices appear:
+	•	Ensure Bluetooth is enabled in iOS Settings
+	•	Grant Bluetooth permission when prompted
+	•	Keep the sensor powered on and nearby
+	•	Avoid Bluetooth interference from other devices
+	•	Relaunch the app if needed
+
+If Bluetooth is turned off, the app will prompt you to enable it.
+
+⸻
+
+Duplicate or Jumping Devices During Scan
+
+During scanning, BLE advertising packets may be received frequently.
+
+The app:
+	•	Deduplicates devices using unique identifiers
+	•	Stabilizes scan results to prevent items from jumping
+	•	Updates signal strength and “last seen” timestamps in real time
+
+If you see multiple entries with the same device name, allow a few seconds for the list to stabilize.
+
+⸻
+
+Temperature Data Notes
+	•	Temperature values are broadcast by the sensor hardware
+	•	Update frequency depends on sensor configuration
+	•	Displayed values reflect the most recent broadcast received
+	•	Data is intended for monitoring and demonstration purposes
+
+⸻
+
+Device Settings
+
+Each sensor maintains independent settings, including:
+	•	Temperature parsing parameters
+	•	Custom display names
+	•	Unit selection (°C / °F)
+
+Settings are stored locally on your device.
+
+⸻
+
+App Limitations
+	•	The app does not function without compatible IN120 hardware
+	•	No cloud sync or remote access is provided
+	•	No user accounts or login are required
+
+⸻
+
+Privacy
+
+NanoBeacon Sensor App:
+	•	Does not collect personal data
+	•	Does not transmit sensor data to servers
+	•	Stores settings locally on your device
+
+See the Privacy Policy for full details.
+
+⸻
+
+Contact Support
+
+If you need help or want to report an issue, please contact:
+
+Email: support@inplay-tech.com (replace if needed)
+
+Please include:
+	•	iPhone model
+	•	iOS version
+	•	App version
+	•	Sensor model (if applicable)
+
+⸻
+
+About IN120
+
+IN120 is a BLE advertising-only wireless chip designed for ultra-low-power sensor applications.
+
+NanoBeacon Sensor App is a companion app intended to demonstrate and monitor IN120-based temperature sensors.
