@@ -1,0 +1,124 @@
+Terms of Use
+
+Last updated: February 2026
+
+These Terms of Use (“Terms”) govern your use of the NanoBeacon Sensor mobile application (the “App”), developed and provided by Jason Wu (“Developer”, “we”, “us”).
+
+By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
+
+⸻
+
+1. Description of the App
+
+NanoBeacon Sensor App is a companion application designed for use with InPlay IN120 compatible wireless temperature sensor hardware.
+
+The App:
+	•	Scans for nearby IN120 sensors using Bluetooth Low Energy (BLE) advertising packets
+	•	Displays temperature and battery data broadcast by compatible devices
+	•	Operates in BLE observer (scan-only) mode
+	•	Does not establish a traditional BLE GATT connection with sensors
+
+The App requires compatible IN120 hardware to provide live temperature data.
+
+⸻
+
+2. Hardware Requirement
+
+Live sensor readings are only available when:
+	•	An IN120-compatible temperature sensor is powered on and nearby
+	•	Bluetooth is enabled on your iOS device
+	•	Required Bluetooth permissions are granted
+
+If no compatible hardware is present, the App may display “No device found” or similar messages.
+
+⸻
+
+3. User Responsibilities
+
+You agree to:
+	•	Use the App only with compatible IN120 hardware
+	•	Ensure Bluetooth permissions are enabled for proper operation
+	•	Comply with all applicable laws and regulations
+
+You agree not to:
+	•	Attempt to reverse engineer or modify the App
+	•	Use the App in a way that interferes with Bluetooth systems or other devices
+	•	Misrepresent sensor data as certified or safety-critical measurements
+
+⸻
+
+4. Data and Accuracy Disclaimer
+	•	Temperature and battery data are broadcast by external hardware devices
+	•	The App displays data as received, without modification or validation
+	•	The App is provided for informational and demonstration purposes only
+	•	The App is not intended for medical, safety-critical, or regulatory use
+
+We make no guarantees regarding data accuracy, availability, or update frequency.
+
+⸻
+
+5. Privacy
+
+The App:
+	•	Does not require user accounts
+	•	Does not collect personally identifiable information
+	•	Stores saved sensors and preferences locally on your device
+	•	Does not transmit sensor data to external servers
+
+For details, see the Privacy Policy.
+
+⸻
+
+6. Intellectual Property
+
+The App, including its design, code, text, and graphics, is owned by Jason Wu and is protected by applicable intellectual property laws.
+
+You are granted a limited, non-exclusive, non-transferable license to use the App for personal or internal evaluation purposes.
+
+⸻
+
+7. Third-Party Services
+
+The App relies on Apple iOS system services, including:
+	•	CoreBluetooth
+	•	iOS system encryption and security features
+
+We are not responsible for issues caused by third-party platforms or services.
+
+⸻
+
+8. Disclaimer of Warranties
+
+The App is provided “as is” and “as available”, without warranties of any kind, express or implied.
+
+We disclaim all warranties, including but not limited to:
+	•	Merchantability
+	•	Fitness for a particular purpose
+	•	Non-infringement
+
+⸻
+
+9. Limitation of Liability
+
+To the maximum extent permitted by law:
+	•	We shall not be liable for any indirect, incidental, or consequential damages
+	•	We are not responsible for hardware malfunctions, data loss, or signal interference
+
+Your use of the App is at your own risk.
+
+⸻
+
+10. Changes to These Terms
+
+We may update these Terms from time to time.
+Updated Terms will be posted with a revised “Last updated” date.
+
+Continued use of the App after changes indicates acceptance of the updated Terms.
+
+⸻
+
+11. Contact
+
+If you have questions about these Terms, please contact:
+
+Email: support@inplay-tech.com
